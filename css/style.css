@@ -89,6 +89,11 @@ h1{
   padding-bottom:0px;
 }
 
+.mailing-list > #mc_embed_signup .mc-field-group{
+  padding-bottom:2%;
+}
+
+
 .mailing-list{
   box-sizing: border-box;
   padding-left:20%;
